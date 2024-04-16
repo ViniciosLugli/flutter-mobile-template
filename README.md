@@ -210,3 +210,4 @@ Now you should see the app running on the emulator. Make sure you have an emulat
 For more detailed instructions, refer to the [Flutter official documentation](https://flutter.dev/docs).
 
 ## Demo
+![demo](https://github.com/ViniciosLugli/flutter-mobile-template/assets/40807526/3e592825-bcfc-4a55-a3cf-8ea35a724ad9)
