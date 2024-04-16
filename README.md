@@ -4,15 +4,13 @@ This repository contains a Flutter project that serves as a template for mobile 
 
 > Note: All the instructions in this README file are for linux users. If you are using another operating system, you may need to adapt the commands.
 
-## Prerequisites
+## Used tools
 
-Before you begin, ensure you have met the following requirements:
-
--   **Flutter**: You need Flutter installed on your machine. To install Flutter, follow the [official documentation](https://flutter.dev/docs/get-started/install).
--   **Dart**: Dart is required and comes bundled with Flutter.
--   **Android Studio**: Android Studio is recommended for Android development because it provide a android emulator. You can download it from the [official website](https://developer.android.com/studio).
--   **Visual Studio Code**: Visual Studio Code have a lot of extensions that can help you with Flutter development. You can download it from the [official website](https://code.visualstudio.com/).
--   **Git**: Git must be installed to clone the project repository. Installation instructions can be found at [git-scm.com](https://git-scm.com/).
+-   **Flutter**: Open-source UI software development kit created by Google.
+-   **Dart**: Programming language optimized for building mobile, desktop, server, and web applications.
+-   **Android Studio**: Integrated development environment for Android app development.
+-   **Visual Studio Code**: Code editor optimized for building and debugging modern web and cloud applications.
+-   **Git**: Version control system used to track changes in the source code.
 
 ## Setup Flutter
 
@@ -22,8 +20,15 @@ To set up Flutter, the steps are get of the [official documentation](https://doc
 
 ### 1. Download Flutter SDK
 
+Go to downloads folder
+
 ```bash
 cd ~/Downloads
+```
+
+Download the Flutter SDK using the following command:
+
+```bash
 wget https://storage.googleapis.com/flutter_infra_release/releases/stable/linux/flutter_linux_3.19.5-stable.tar.xz
 ```
 
@@ -210,4 +215,5 @@ Now you should see the app running on the emulator. Make sure you have an emulat
 For more detailed instructions, refer to the [Flutter official documentation](https://flutter.dev/docs).
 
 ## Demo
+
 ![demo](https://github.com/ViniciosLugli/flutter-mobile-template/assets/40807526/3e592825-bcfc-4a55-a3cf-8ea35a724ad9)
