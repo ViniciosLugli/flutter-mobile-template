@@ -183,13 +183,13 @@ Add android sdk to your path, by default the android sdk is installed in the hom
 flutter config --android-sdk $HOME/Android/Sdk
 ```
 
-Run the following command in the terminal to list the available devices:
+Run the following command in the terminal to list the available emulators devices:
 
 ```bash
-flutter devices
+flutter emulators
 ```
 
-Copy the device name of the emulator you created.
+Copy the device name of the android emulator you created.
 
 Run the following command to configure the device:
 
